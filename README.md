@@ -29,8 +29,8 @@ Here are the few screen shots:
 ![image](https://github.com/KeplerInCoding/CurrentWeather-CLITool/assets/97353931/996fa37f-ba43-4d38-be62-f8ebbac278e1)
 
 Then I ralised that copilet's code is not handelling errors properly.<br>
-So I googled for error handling in python (I have very basic knowledge in python) and came to know it uses try and catch block for the same.<br>
-So i deleted the code and gave instruction to copilot to execute try-catch block-
+So I googled for error handling in python (I have very basic knowledge in python) and came to know it uses try and except block for the same.<br>
+So i deleted the code and gave instruction to copilot to execute try-except block-
 ![image](https://github.com/KeplerInCoding/CurrentWeather-CLITool/assets/97353931/85307790-1253-4da9-9f18-7494af50ac05)
 ![image](https://github.com/KeplerInCoding/CurrentWeather-CLITool/assets/97353931/0de610d2-f791-4803-9d36-adc2a174f627)
 ![image](https://github.com/KeplerInCoding/CurrentWeather-CLITool/assets/97353931/d4d5080d-3a8b-4dd6-bb46-6136c3be1c8b)
